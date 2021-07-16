@@ -11630,3 +11630,23 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+.optionsWrapper {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 7.5px ;
+}
+
+.bg-dark { 
+	background-color: #212934 !important;
+}
+
+#tempaltemo_footer ul.footer-icons li {
+  width: 2.6em;
+  height: 2.6em;
+  line-height: 2.6em;
+}
+
+#tempaltemo_footer .border-light {
+	border-color: #2d343f !important;
+}
